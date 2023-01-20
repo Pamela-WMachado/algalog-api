@@ -17,7 +17,7 @@ public class ClienteController {
 		
 		var cliente1 = new Cliente();
 		cliente1.setId(1L);
-		cliente1.setNome("Casimiro da Silva");
+		cliente1.setNome("Casimiro da Silveiraaaaa");
 		cliente1.setEmail("casi@email.com");
 		cliente1.setTelefone("21 96584-8897");
 		
